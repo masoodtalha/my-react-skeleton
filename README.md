@@ -6,3 +6,6 @@ npm install
 
 To Run:
 npm start
+
+For more info:
+masoodtalha7@gmail.com
